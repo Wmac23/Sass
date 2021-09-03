@@ -1,0 +1,14 @@
+body {
+  background-image: url("images/photo-1475274047050-1d0c0975c63e.jpg");
+}
+
+h2, h3, h4, h5 {
+  color: #f0d769;
+  font-weight: bolder;
+}
+
+p {
+  color: #f0d769;
+  font-size: 24px;
+}
+/*# sourceMappingURL=stylesheet.css.map */

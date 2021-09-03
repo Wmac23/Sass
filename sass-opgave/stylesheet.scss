@@ -1,0 +1,16 @@
+$color: #f0d769;
+$textSize: 24px;
+$bold: bolder;
+
+body {
+    background-image: url("images/photo-1475274047050-1d0c0975c63e.jpg");
+}
+
+h2,h3,h4,h5{
+    color: $color;
+    font-weight: $bold;
+}
+p{
+    color: $color;
+    font-size: $textSize;
+}
